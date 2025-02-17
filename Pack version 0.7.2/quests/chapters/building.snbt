@@ -1,0 +1,31 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "building"
+	group: "32571A4D4DB47570"
+	id: "31812C85C52C484C"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "0292E513BF635D5E"
+			tasks: [{
+				id: "5C412C77D38436EC"
+				item: { count: 1, id: "buildinggadgets2:gadget_building" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			id: "6E2D624E265EA1E0"
+			tasks: [{
+				id: "7F0E51866732F2AB"
+				item: { count: 1, id: "rftoolsbuilder:builder" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.0d
+		}
+	]
+}

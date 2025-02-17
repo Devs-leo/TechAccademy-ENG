@@ -1,0 +1,26 @@
+{
+	icon: {
+		id: "mini_mob_trophy:phantom_familiar_trophy"
+	}
+	id: "317D45D3C953414E"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{
+			command: "/gamerule doInsomnia false"
+			icon: {
+				id: "mini_mob_trophy:phantom_trophy_beta"
+			}
+			id: "127F4BAFF2DC536E"
+			type: "command"
+		}
+		{
+			command: "/gamerule doInsomnia true"
+			icon: {
+				id: "mini_mob_trophy:phantom_trophy"
+			}
+			id: "7D674DFB975DE045"
+			type: "command"
+		}
+	]
+}

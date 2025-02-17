@@ -1,0 +1,264 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "immersive_eng"
+	group: "6021C862F01F642A"
+	icon: {
+		id: "immersiveengineering:workbench"
+	}
+	id: "011669EFCD494D94"
+	images: [{
+		height: 2.0d
+		image: "techacademy:textures/quests/coke_ie.png"
+		rotation: 0.0d
+		width: 2.0d
+		x: -0.5d
+		y: -3.5d
+	}]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["29541D1F71E6A026"]
+			icon: {
+				id: "immersiveengineering:cokebrick"
+			}
+			id: "7DD157FC2E23127E"
+			rewards: [{
+				count: 12
+				id: "1AB928EB08EBF087"
+				item: {
+					count: 1
+					id: "immersiveengineering:cokebrick"
+				}
+				type: "item"
+			}]
+			shape: "square"
+			size: 1.5d
+			tasks: [{
+				count: 15L
+				id: "0E8AEFE55D8E23E6"
+				item: { count: 14, id: "immersiveengineering:cokebrick" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["7DD157FC2E23127E"]
+			id: "456435F6E696A30D"
+			rewards: [{
+				count: 4
+				id: "3D0750D3B708765E"
+				item: {
+					count: 1
+					id: "immersiveengineering:coal_coke"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "202522DAF111E514"
+				item: { count: 1, id: "immersiveengineering:coal_coke" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7DD157FC2E23127E"]
+			id: "580869FDAF268E79"
+			rewards: [{
+				id: "102A3E7FBD7BD710"
+				item: {
+					count: 1
+					id: "immersiveengineering:creosote_bucket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4A24BD69334DBE0C"
+				item: { count: 1, id: "immersiveengineering:creosote_bucket" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"456435F6E696A30D"
+				"0277EA11A4261E6E"
+			]
+			id: "7D7D9F1E667657F4"
+			rewards: [{
+				count: 4
+				id: "0B51EE5FB6B8DCAA"
+				item: {
+					count: 1
+					id: "immersiveengineering:ingot_steel"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "701F125F96433E3F"
+				item: { count: 1, id: "immersiveengineering:ingot_steel" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			id: "0277EA11A4261E6E"
+			rewards: [{
+				count: 12
+				id: "4A98BDDECE8F34BC"
+				item: {
+					count: 1
+					id: "immersiveengineering:blastbrick"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 15L
+				id: "6E3C20B7C4107195"
+				item: { count: 1, id: "immersiveengineering:blastbrick" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["580869FDAF268E79"]
+			id: "565C059562BD3746"
+			rewards: [{
+				count: 16
+				id: "6270459E3003CD4B"
+				item: {
+					count: 1
+					id: "immersiveengineering:treated_wood_horizontal"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 8L
+				id: "0F04D4F38D37AD4E"
+				item: { count: 1, id: "immersiveengineering:treated_wood_horizontal" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["565C059562BD3746"]
+			id: "7AB83A6412BB0EFF"
+			tasks: [{
+				id: "69A206BB763369E1"
+				item: { count: 1, id: "immersiveengineering:windmill" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"7D7D9F1E667657F4"
+				"565C059562BD3746"
+			]
+			id: "1640E08845D6EA1A"
+			tasks: [{
+				id: "45475B654897948D"
+				item: { count: 1, id: "immersiveengineering:watermill" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7AB83A6412BB0EFF"]
+			id: "071DB6AF939A3E3C"
+			rewards: [{
+				count: 4
+				id: "50F667CE83635432"
+				item: {
+					count: 1
+					id: "immersiveengineering:windmill_sail"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 4L
+				id: "0DF08E1EDC758BD4"
+				item: { count: 4, id: "immersiveengineering:windmill_sail" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"7AB83A6412BB0EFF"
+				"1640E08845D6EA1A"
+			]
+			id: "6886B94EC94A32A6"
+			rewards: [{
+				id: "5BF06E5C0CBD95F6"
+				item: {
+					count: 1
+					id: "immersiveengineering:dynamo"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "5F3FB7F978182D47"
+				item: { count: 1, id: "immersiveengineering:dynamo" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"580869FDAF268E79"
+				"565C059562BD3746"
+			]
+			icon: {
+				id: "immersiveengineering:tank"
+			}
+			id: "2CD86B4F3D831CC3"
+			rewards: [
+				{
+					count: 34
+					id: "546A6ACBD411389B"
+					item: {
+						count: 1
+						id: "immersiveengineering:plate_iron"
+					}
+					type: "item"
+				}
+				{
+					id: "47580206F08B0641"
+					item: {
+						count: 1
+						id: "minecraft:lever"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 34L
+					id: "5A215349ECC97F23"
+					item: { count: 1, id: "immersiveengineering:sheetmetal_iron" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "65948649A41CC337"
+					item: { count: 4, id: "immersiveengineering:treated_fence" }
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 1.0d
+		}
+	]
+}

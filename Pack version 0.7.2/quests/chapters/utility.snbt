@@ -1,0 +1,275 @@
+{
+	autofocus_id: "4F304441E9995253"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "utility"
+	group: ""
+	icon: {
+		id: "buildinggadgets2:gadget_building"
+	}
+	id: "7A3DDEC3BE3BE902"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7A247E4812CEDC10"
+			tasks: [{
+				id: "7E1D09FB392520E9"
+				item: { count: 1, id: "compactmachines:wall" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -3.5d
+		}
+		{
+			id: "4D53AECA4628A9F8"
+			tasks: [{
+				id: "206990610F33DFDC"
+				item: { count: 1, id: "shrink:shrinking_device" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -4.5d
+		}
+		{
+			id: "4BB89DEFA8F9BE7A"
+			tasks: [{
+				id: "08A92B2F7BF62086"
+				item: { count: 1, id: "torchmaster:megatorch" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -5.5d
+		}
+		{
+			id: "079BB648273FA6EA"
+			tasks: [{
+				id: "3019D9FCE94A30AF"
+				item: { count: 1, id: "buildinggadgets2:gadget_building" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -5.0d
+		}
+		{
+			id: "66847BC40D0AA886"
+			tasks: [{
+				id: "2DD33FA9080C4173"
+				item: { count: 1, id: "chunkloaders:basic_chunk_loader" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -4.0d
+		}
+		{
+			id: "114992D32397A35D"
+			tasks: [{
+				id: "5398FFADCB9E7EB0"
+				item: { count: 1, id: "adfinders:gem_finder" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -2.0d
+		}
+		{
+			id: "07735D93EC888469"
+			tasks: [{
+				id: "44EA0E7F3DD32120"
+				item: { count: 1, id: "adfinders:metal_finder" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: -2.0d
+		}
+		{
+			id: "5AAD4C27702802ED"
+			tasks: [{
+				id: "2AC9541048CD8614"
+				item: { count: 1, id: "adfinders:mineral_finder" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: -2.0d
+		}
+		{
+			id: "7E0734D239A3F437"
+			tasks: [{
+				id: "1467A2EDCACB165D"
+				item: { count: 1, id: "naturescompass:naturescompass" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: -5.0d
+		}
+		{
+			id: "64C4A69B7AB2378C"
+			tasks: [{
+				id: "32F93416E9D17C7B"
+				item: { count: 1, id: "explorerscompass:explorerscompass" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -5.0d
+		}
+		{
+			id: "3997E027E7AC3CDA"
+			tasks: [{
+				id: "25C0A7A5B40EFA95"
+				item: { count: 1, id: "hangglider:hang_glider" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: -5.0d
+		}
+		{
+			id: "555A38A59CCEBB90"
+			tasks: [{
+				id: "59FA02B216DECAD9"
+				item: { count: 1, id: "miningutility:mining_helmet" }
+				type: "item"
+			}]
+			x: -11.5d
+			y: -2.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "minecraft:item/ender_eye"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "447ECA829E561952"
+			shape: "square"
+			tasks: [{
+				id: "2700CEED791E885D"
+				type: "checkmark"
+			}]
+			x: -6.5d
+			y: -3.0d
+		}
+		{
+			id: "0E7A6596E86235B7"
+			tasks: [
+				{
+					id: "1C773DFEFC0C3EC0"
+					item: { count: 1, id: "permanentsponges:aqueous_sponge" }
+					type: "item"
+				}
+				{
+					id: "5876EEA88F304111"
+					item: { count: 1, id: "permanentsponges:aqueous_sponge_on_a_stick" }
+					type: "item"
+				}
+			]
+			x: -14.0d
+			y: -3.5d
+		}
+		{
+			icon: {
+				id: "minecraft:sponge"
+			}
+			id: "739B69B6BFFFCBEA"
+			shape: "square"
+			tasks: [{
+				id: "6009A7109BF8CCE0"
+				type: "checkmark"
+			}]
+			x: -13.5d
+			y: -4.5d
+		}
+		{
+			id: "186003C77DF0B909"
+			tasks: [
+				{
+					id: "5288FF13F0658E63"
+					item: { count: 1, id: "permanentsponges:magmatic_sponge" }
+					type: "item"
+				}
+				{
+					id: "433EDDE6ED9A9F36"
+					item: { count: 1, id: "permanentsponges:magmatic_sponge_on_a_stick" }
+					type: "item"
+				}
+			]
+			x: -13.0d
+			y: -3.5d
+		}
+		{
+			id: "2FE0B17706037798"
+			tasks: [{
+				id: "47EDD405DC1CE962"
+				item: { count: 1, id: "miningutility:escape_rope" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: -2.0d
+		}
+		{
+			id: "740F8E1306C59A5B"
+			tasks: [{
+				id: "652BA49190E8AB7D"
+				item: { count: 1, id: "miningutility:rope_ladder" }
+				type: "item"
+			}]
+			x: -9.5d
+			y: -2.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "ae2:item/fluix_pickaxe"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "278799FE30EB694F"
+			shape: "square"
+			tasks: [{
+				id: "27C5643C5B6422CF"
+				type: "checkmark"
+			}]
+			x: -10.5d
+			y: -3.0d
+		}
+		{
+			id: "2BE0A92298701AD6"
+			tasks: [
+				{
+					id: "1DF60BB34D62E370"
+					item: { count: 1, id: "usefulslime:slime_sling" }
+					type: "item"
+				}
+				{
+					id: "5AFEEC020730990A"
+					item: { count: 1, id: "usefulslime:slime_boots" }
+					type: "item"
+				}
+			]
+			x: -9.0d
+			y: -5.0d
+		}
+		{
+			id: "16ABA0EEA127A342"
+			shape: "square"
+			tasks: [{
+				id: "21D44EB0FECA9687"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: -4.5d
+		}
+		{
+			icon: {
+				id: "minecraft:compass"
+			}
+			id: "4F304441E9995253"
+			optional: true
+			shape: "square"
+			tasks: [{
+				id: "5A4416C1C51792EB"
+				type: "checkmark"
+			}]
+			x: -8.5d
+			y: -6.0d
+		}
+	]
+}
