@@ -1,0 +1,549 @@
+{
+	chapter.011669EFCD494D94.title: "Immersive Eng"
+	chapter.050D313A1C827180.title: "Food"
+	chapter.0E60C4CBBD4DA9F9.title: "Energy"
+	chapter.0FDEE8071BC408D2.title: "Hostile Network"
+	chapter.17547FC8D4FFF9D2.title: "Applied Energistics"
+	chapter.270A92A60A72F31F.title: "Industrial Forecasting"
+	chapter.292FB7C1D54BC605.title: "Storage"
+	chapter.2F56F75578C00CCE.title: "RailCraft"
+	chapter.33C620697A86841F.title: "Mining"
+	chapter.36364A58523642A8.title: "Introduction"
+	chapter.389D9BC71F4B252E.title: "Farming"
+	chapter.3992EBE95DA548B5.title: "Actually Additions"
+	chapter.456B59BC611C4AF1.title: "Ender I"
+	chapter.46A364DC04B0C01E.title: "Pneumatic raft"
+	chapter.4F8C1FBE943C4B53.title: "Processing"
+	chapter.5127EAB07A1BA40A.title: "Mechanism"
+	chapter.592CF3629B80B6FA.title: "Pooh"
+	chapter.7A3DDEC3BE3BE902.title: "Utilities"
+	chapter.7D82DB4905EAC0E4.title: "Grinding"
+	chapter_group.32571A4D4DB47570.title: "COMING SOON"
+	chapter_group.6021C862F01F642A.title: "Mod Techniques WIP"
+	quest.026404C1E714F6D2.quest_desc: ["In this chapter you will find all the useful tools to play the modpack , regardless of the mod that inserts them."]
+	quest.026404C1E714F6D2.title: "UTILITY"
+	quest.0277EA11A4261E6E.quest_desc: ["Follow the Coke Oven instructions for this multi-block structure. You cannot automatically take or put items, you will have to create the advanced Blast!"]
+	quest.0277EA11A4261E6E.quest_subtitle: "TIP: This is not the only way to create Steel"
+	quest.071DB6AF939A3E3C.quest_desc: ["These sails will make your mill go faster, which will produce more electricity!"]
+	quest.07735D93EC888469.quest_desc: ["A compass that points to the hours of metals such as Iron, Gold and Tin!"]
+	quest.079BB648273FA6EA.quest_desc: ["Three gadgets for the building WIP info"]
+	quest.0999A3830F57B7DD.quest_desc: ["Your first energy source! You can put any minecraft fuel in it !"]
+	quest.09CCBBCF5BBA2547.quest_desc: ["These cables show you the number of connections"]
+	quest.0FFCC3269C6B4D39.quest_desc: ["Wind! Constant and ecological! The higher you place it, the more it produces!"]
+	quest.1127CD3D3B2803E4.quest_desc: ["Free wool, no fuss. Did you use wooden shears ?"]
+	quest.114992D32397A35D.quest_desc: ["A compass that points to the hours of gems such as Diamonds, Emeralds and Quartz!"]
+	quest.121C885E07CB9E81.quest_desc: [
+		"The Configurator is Mekanism 's universal Wrench ."
+		"Press shift + mouse wheel to change the configurator function"
+		"Configure - change cable state"
+		"Wrench - removes cable/machinery"
+		"Rotate - rotate the machine"
+		""
+		", shift+right click to change the cable status to Export/Import/None"
+	]
+	quest.1268B60817262B01.quest_desc: [
+		"The AE2 works in channels, choosing to keep them active makes cable management more complex."
+		"Consider disabling them by making the channels infinite (no connection limit)"
+	]
+	quest.1268B60817262B01.title: "Do you want those channels?"
+	quest.14A46BA3A1FE24AF.quest_desc: ["Kill the spiders or use the Hemp to get the strings !"]
+	quest.15761B4F4D351753.quest_desc: [
+		"The AIOT is the fusion of pickaxe, sword, axe, shovel and hoe."
+		"modded materials"
+	]
+	quest.1640E08845D6EA1A.quest_desc: ["Use water to move the mill and produce electricity"]
+	quest.1A22D30B4C17A666.quest_desc: [
+		"If phantoms bore you, you can select this quest to enable or disable them."
+		"Keep in mind that whenever you want, you can farm them directly by keeping their generation disabled!"
+	]
+	quest.1A22D30B4C17A666.title: "Phantom yes or no?"
+	quest.1E9BA4503E54C277.quest_desc: [
+		"You can also get the skin by transforming the rotten Flesh with the Atomic Reconstructor of Actually Addition"
+		""
+		"{ \"text\": \"AtomicReconstructor\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"51FA3CCC5BC3C328\" } }"
+	]
+	quest.21793C2E906F25A0.quest_desc: [
+		"The first AE2 cables, can support max 8 channels."
+		"You can color them so they don't stick together"
+	]
+	quest.21FA1ED194A0764B.quest_desc: ["These chests work like Ender Chest , but you can change the frequency to have infinite connections!"]
+	quest.23E97256E02EC67F.quest_desc: ["As for the DimensionalChest , but for liquids!"]
+	quest.28B50B71422A73AB.quest_desc: ["The Ring of Magnetism allows you, when activated (you will see an Enchant -like effect ) to attract all objects within a 5 block radius to you!"]
+	quest.29541D1F71E6A026.quest_desc: [
+		""
+		"Immersive Engineering"
+		"Tech mod that introduces realistic industrial machinery and generators, with a steampunk aesthetic and a focus on cables, multi-block structures and resource transformation."
+		""
+		"Play this mod if:"
+		""
+		"dieselpunk style industry with massive machinery."
+		"You want a realistic power system with cables and transformers."
+		"You are fascinated by multi-block constructions and detailed mechanics."
+		"Focus:"
+		"✅ Multi-block structures"
+		"✅ Energy generation and transmission"
+		"✅ Industrial Automation"
+		"✅ Steampunk/ dieselpunk aesthetic"
+		""
+		"Difficulty: 3/5 – Requires space and planning, but is intuitive and visually satisfying."
+	]
+	quest.29541D1F71E6A026.quest_subtitle: "Craft the Engineer's Hammer!"
+	quest.29541D1F71E6A026.title: "Immersive Engineering"
+	quest.2B9C12EC646BE10D.quest_desc: [
+		"Industrial Forecasting"
+		"Technological mod based on industrial production, with machinery for resource extraction, energy generation and automated processing."
+		""
+		"Play this mod if:"
+		""
+		"You want to create a complete production plant."
+		"You need an efficient system for automatic cultivation and breeding."
+		"You like simple but powerful machines."
+		"Focus:"
+		"✅ Production Automation"
+		"✅ Extraction and processing of materials"
+		"✅ Automatic farming and agriculture"
+		"✅ Industrial Energy"
+		""
+		"Difficulty: 2/5 – Easy to use, perfect for instant automation."
+	]
+	quest.2B9C12EC646BE10D.quest_subtitle: "Craft the first frame of Industrial!"
+	quest.2B9C12EC646BE10D.title: "Industrial Forecasting"
+	quest.2BC513CCBE61F4B0.quest_desc: [
+		"THIS IS A TEST TO SEE IF THE TEXT EXPANDS OR NOT!"
+		"{image:new:textures/quests/farm.png width:400 height:160 align:center}"
+	]
+	quest.2BC513CCBE61F4B0.title: "Wood Farm"
+	quest.2BE0A92298701AD6.quest_desc: [
+		"Slime Slingshot will shoot you in the opposite direction you are looking."
+		"Slime 's feet will instead negate your fall damage by making you bounce!"
+	]
+	quest.2CD86B4F3D831CC3.quest_desc: ["A multi-block structure to contain liquids! Insert from the top and remove from the bottom, to export fluids you must give a redstone signal at the bottom."]
+	quest.2CD86B4F3D831CC3.quest_subtitle: "Tips : There are better and cheaper tanks!"
+	quest.2D8B2704F5C9101D.quest_desc: ["WIP"]
+	quest.2DC1AD436D716A0F.quest_desc: ["Insert upgrades into a valid machine to increase its speed and efficiency"]
+	quest.3074481BB696C243.quest_subtitle: "TIP: There are placers that do not require electricity"
+	quest.325C115E99FD5FB2.quest_desc: ["Powah string makers , you find them in order from easiest to most difficult from top to bottom"]
+	quest.325C115E99FD5FB2.title: "Energy Producers"
+	quest.333559A3B155592D.quest_desc: [
+		"A paxel is a combination of a pickaxe, a shovel and an axe (unfortunately, durability doesn't stack, but damage does increase a lot!)!"
+		"paxel versions of modded materials !"
+	]
+	quest.33ADB31A4679D6B3.quest_desc: [
+		"Place the ingredients of the dishes in this new pan and grab your spatula to start the cooking minigame, you risk burning everything, but you can get more portions of the same dish!"
+		""
+		"{image:techacademy:textures/quests/cooking_mama.png width:160 height:100 align:center}"
+	]
+	quest.33ADB31A4679D6B3.title: "Cooking Mama!"
+	quest.34FF34BE6EECC2BA.quest_desc: [
+		"Please note that Powah is divided into TIERS."
+		"Here you will find all the things you can do in the STARTER tier , then you can craft the BASIC versions, after which follow the Energizing quest to get the advanced materials and build the same machines, but from the next tier ."
+	]
+	quest.370CA5EBA68201AC.quest_desc: ["Automatically places blocks you place into the world."]
+	quest.372A406E73A3E902.quest_desc: ["The basic ring to create two VERY useful rings!"]
+	quest.377CBAEB1D5FE594.quest_desc: [
+		"Pooh !"
+		"Mod dedicated to the generation, storage and distribution of energy with powerful reactors, batteries and cables."
+		""
+		"Play this mod if:"
+		""
+		"You want a powerful and scalable energy system."
+		"You need simple but efficient generators."
+		"You like to automate energy production."
+		"Focus:"
+		"✅ Energy generation"
+		"✅ Storage and distribution"
+		"✅ Advanced reactors and batteries"
+		"✅ High Power Cables"
+		""
+		"Difficulty: 2/5 – Intuitive, ideal for those looking for energy without complications."
+	]
+	quest.377CBAEB1D5FE594.quest_subtitle: "Craft Dieletric Paste !"
+	quest.377CBAEB1D5FE594.title: "Pooh"
+	quest.38C1D47A2549E046.quest_desc: ["Other, more specific upgrades"]
+	quest.38DC1479194F422B.quest_desc: ["A rudimentary wooden bucket, useful for moving water before finding iron. You can also try to get lava with it... at your own risk!"]
+	quest.395D8BC75A79A1C3.quest_desc: ["We have to start somewhere!"]
+	quest.395D8BC75A79A1C3.title: "PUNCH THE TREE"
+	quest.3997E027E7AC3CDA.quest_desc: [
+		"The glider is a hang glider that lets you glide by right-clicking it. You can't boost yourself with rockets like the Elytra so you'll have to find a way to launch yourself upwards (or you can just jump off a cliff!)"
+		""
+		"WATCH OUT FOR THE LANDING!"
+	]
+	quest.39C3474F613ADD9F.quest_desc: [
+		""
+		"Advanced technological mod with complex machinery, full automation and an energy system (Universal Energy). Offers ore refining, powerful armor and gas and liquid transportation."
+		""
+		"Play this mod if:"
+		""
+		"You like large-scale industry and advanced resource management."
+		"You want a triple or quadruple mining system."
+		"You're interested in jetpacks , fusion reactors, and modular tools."
+		"Focus:"
+		"✅ Advanced Automation"
+		"✅ Energy (Universal Energy)"
+		"✅ Mineral extraction and refining"
+		"✅ Jetpacks and high-tech armor"
+		""
+		"Difficulty: 3/5 – Complex , but very powerful for those who love advanced technology."
+	]
+	quest.39C3474F613ADD9F.quest_subtitle: "Get your first Osmium ingot !"
+	quest.39C3474F613ADD9F.title: "Mechanism"
+	quest.3A06DAA6736EF1D4.quest_desc: [
+		"Here we go, it's time to start modding! Get or craft the items the following quests ask for to unlock the corresponding mod."
+		""
+		"Read the description carefully to understand which mods you may like."
+		"Keep in mind that nothing stops you from doing a little bit of both, as mods work VERY well together, especially when starting out."
+		""
+		"In the Akashic Tome you can insert all the manuals you receive, just put both in the crafting . Right click to select a book, right click again to open it, left click to return to the Akashic ."
+	]
+	quest.3A06DAA6736EF1D4.quest_subtitle: "LET'S GOOOOO"
+	quest.3A06DAA6736EF1D4.title: "Starting the Mods"
+	quest.3B3049F6C9591CC0.quest_desc: [
+		"Mod that adds simple machinery, energy (Crystal Flux ) and utilities such as bags, rings and advanced tools. Also includes automatic farming and teleportation systems."
+		""
+		"Play this mod if:"
+		""
+		"You want a compact industry without excessive complexity."
+		"You like gadgets and utilities that improve the quality of life."
+		"Prefer simple power without complicated cable management."
+		"Focus:"
+		"✅ Basic Automation"
+		"✅ Energy (Crystal Flux)"
+		"✅ Utilities and gadgets"
+		"✅ Cultivation and resources"
+		""
+		"Difficulty: 2/5 – Easy to use, suitable for those who want technology without too many obstacles."
+	]
+	quest.3B3049F6C9591CC0.quest_subtitle: "Find a DarkQuartz underground!"
+	quest.3B3049F6C9591CC0.title: "Actually Addition"
+	quest.3B69A2A59A3B4F02.quest_desc: ["Mekanism machines it allows you to make them Factory with more slots"]
+	quest.3C508BEAD1B3C541.quest_desc: ["Waste material from the Blast Furnace , you can use it to create bricks or fertilizer!"]
+	quest.3C7D57AE2D755BB1.quest_desc: ["Mekanism 's solar panel is autonomous and eco-friendly, but at night it will not produce energy"]
+	quest.3C7D57AE2D755BB1.quest_subtitle: "Powah Solar Panels Are Cheaper"
+	quest.3D5FF071BA9F8EF2.quest_desc: ["A sleeping bag that lets you sleep while you explore!"]
+	quest.3DF37B39C975AC49.quest_desc: ["Enter the Certus Quartz in the Charger to charge it!"]
+	quest.3F5D4751A3314A12.quest_desc: ["Nether water Quartz , Charged certus Quartz and Redstone in equal parts to get the Fluix Crystal!"]
+	quest.40D1AF04C0F70419.quest_desc: [
+		"RFTools Builder becomes a Quarry!"
+		"You must place an inventory on top of the Builder to get its results."
+		""
+		"This quarry consumes quite a bit of electricity, you know!"
+	]
+	quest.40E89E80A3E6F387.quest_desc: ["The basic building block for creating the Actually machinery Additions !"]
+	quest.4188276A3B73FD98.quest_desc: ["Create the leagues of mekanism !"]
+	quest.4264579CC6BFE4BB.quest_desc: ["Every Inscriber p"]
+	quest.441D6AD1CE49C8BA.quest_desc: [
+		"By pressing E on the right you will find all the items in the pack."
+		"You can search for a specific item by typing in the field below or search for all items of a given mod by typing @modname for example @mekanism"
+		"You can save the objects on the left by pressing A while you have the mouse over the object."
+		"You can left-click on the item or press R to see how to craft it and right-click to see its uses."
+	]
+	quest.441D6AD1CE49C8BA.quest_subtitle: "Jei excellent I would say!"
+	quest.441D6AD1CE49C8BA.title: "Crafting Book !"
+	quest.4BB89DEFA8F9BE7A.quest_desc: ["This torch prevents monsters from naturally spawning in the area around you. Mobspawner and other spawners work independently!"]
+	quest.4BD7A4C0E1DB16A5.quest_desc: ["Put the Certus Quartz in the Inscriber"]
+	quest.4D53AECA4628A9F8.quest_desc: ["WIP"]
+	quest.4F7FF6E7F12B83C0.quest_desc: ["Cook Dry Rubber to get Plastic"]
+	quest.504FBBF5D2DBD047.quest_desc: ["Cook the Certus Quartz Dust to get Silicon"]
+	quest.506CFDF2F0D82434.quest_desc: ["A great way to farm crops ! Given their rarity, I give you canola seeds !"]
+	quest.50B4881185FD4A04.quest_desc: [
+		"The Controller is the heart of the AE2, without the AE2 it doesn't work."
+		"Each face of the controller can support up to 32 channels."
+		"Hold down G to see how you can build the Controller structure"
+	]
+	quest.51502D13AB1B2157.quest_desc: ["It allows you to convert latex into Dry Rubber. You will need water and electricity"]
+	quest.51FA3CCC5BC3C328.quest_desc: [
+		"This machine allows you to transmute vanilla objects into Actually objects . Additions ."
+		"Throw or place blocks where the light beam comes out, you can deactivate the automatic pulse by clicking on them with a redstone torch ."
+		"The Recontractor requires power, craft one of the generators you find below!"
+	]
+	quest.52681CC7FB8348EB.quest_desc: ["Some primitive scissors made of wood, useful for not killing the first sheep without having to wait for the iron!"]
+	quest.52DB3401591293E2.quest_desc: [
+		"There are many cosmetic mods to build with."
+		"quest chapters on these so I'll leave you the name and a description and if you're interested you can search for them in the JEI."
+		""
+		"CHISEL REBORN - Allows you to vary the textures of hundreds of blocks"
+		"FRAMED BLOCK - Blocks of different shapes that you can give the block texture to by clicking on them"
+		"COSMETIC ARMOR - Adds a slot for cosmetic armor, icon at the character's feet by pressing E"
+		"INVENTORY HUD - Customize the HUD, press O"
+		"CABLE FACADES - Allows you to hide cables"
+		""
+		"cosmetic armor , framed block, inventory hud , cable fecade"
+	]
+	quest.52DB3401591293E2.title: "Modded aesthetics"
+	quest.5334CF50408E20A9.quest_desc: ["Essential for many crafting , you can get leather by farming cows (don't kill horses please)"]
+	quest.53DEF52A701325C3.quest_desc: ["You can get strings directly from spiders. If you find a spawner consider taking it home with the Carry on so you always have them available when you can grind"]
+	quest.53DEF52A701325C3.title: "Spiders for strings"
+	quest.5424BD3317414183.quest_desc: ["A basic generator from Industrial"]
+	quest.5526470283630FA1.quest_desc: ["A rudimentary hopper , made of wood! It has no internal inventory, but it allows you to move objects before finding iron!"]
+	quest.555A38A59CCEBB90.quest_desc: ["The Mining Helmet grants NightVision , unfortunately, it has a durability that wears down over time (put it in your backpack so you don't wear it out unintentionally!)"]
+	quest.558FD52595B2CC70.quest_desc: ["WIPPE"]
+	quest.565C059562BD3746.quest_desc: ["Immersive's Treated Wood is the basis of all its crafting"]
+	quest.580869FDAF268E79.quest_desc: ["It allows you to treat wood!"]
+	quest.5890E74471C9557B.quest_desc: [
+		"Railcraft"
+		"Mod focused on building advanced railways, with locomotives, custom tracks and rail logistics."
+		""
+		"Play this mod if:"
+		""
+		"You want to transport resources over long distances."
+		"You enjoy building realistic railway networks."
+		"You want an alternative transportation system to pipes and ducts."
+		"Focus:"
+		"✅ Advanced Railways"
+		"✅ Logistics and transportation of resources"
+		"✅ Steam locomotives and systems"
+		"✅ Railway automation"
+		""
+		"Difficulty: 3/5 – Requires planning for efficient rail networks."
+	]
+	quest.5890E74471C9557B.quest_subtitle: "Craft your first alloy: bronze!"
+	quest.5890E74471C9557B.title: "Railcraft"
+	quest.59E099943069F343.quest_desc: [
+		"The Crafting Station is a Crafting Advanced table that allows you to craft with items contained in chests adjacent to it."
+		"crafting with the JEI while you are in the Station you can press + to automatically insert the items (+ shift for more stacks )"
+	]
+	quest.5A9F76DA02C7DB08.quest_desc: ["The Growth Ring allows you, when held in your hand, to increase the growth of your gardens and trees!"]
+	quest.5AAD4C27702802ED.quest_desc: ["A compass that points towards the ores of minerals such as Coal and Redstone"]
+	quest.5B2C6BAA372915A7.quest_desc: ["Dig the soil to find worms, place them in your garden to fertilize the soil and speed up the growth of the plants!"]
+	quest.5BB1CA2FDAC0315B.title: "Compressed Iron"
+	quest.5CD43231CDDD6BB0.quest_desc: [
+		"Ender I"
+		"Mod that offers a versatile energy system, multifunctional machinery, and advanced liquid and object management with unique conduits."
+		""
+		"Play this mod if:"
+		""
+		"You need a smooth and compact transport network."
+		"You want flexible and modular machines."
+		"You like customizable armor and tools."
+		"Focus:"
+		"✅ Smooth Automation"
+		"✅ Conduits for energy, fluids and objects"
+		"✅ Modular Armor and Tools"
+		"✅ Energy generation"
+		""
+		"Difficulty: 3/5 – Requires knowledge of conduits and block interactions."
+	]
+	quest.5CD43231CDDD6BB0.quest_subtitle: "Set fire to the bedrock !"
+	quest.5CD43231CDDD6BB0.title: "Ender I"
+	quest.5E68C97FCEDE57A9.quest_desc: [
+		"Mod that introduces an advanced system for generating and controlling hostile mobs, allowing you to farm resources efficiently through digital simulations."
+		""
+		"Play this mod if:"
+		""
+		"Want to create mob farms without bulky structures?"
+		"You enjoy gaining resources through simulations rather than direct combat."
+		"You are interested in a high-tech alternative to traditional spawners ."
+		"Focus:"
+		"✅ Automated Mob Farms"
+		"✅ Digital simulation of hostile entities"
+		"✅ Collecting resources from mobs"
+		"✅ Energy and data management"
+		""
+		"Difficulty: 3/5 – Requires power management and simulation setup."
+	]
+	quest.5E68C97FCEDE57A9.quest_subtitle: "Craft a Model Framework"
+	quest.5E68C97FCEDE57A9.title: "Hostile Network"
+	quest.616B482B523020C6.quest_desc: [
+		"Exactly. Explain the tags and the forge ore c :ores"
+		""
+		""
+		"* c:ores *"
+	]
+	quest.61FE591DF85F0C88.quest_desc: ["portable Crafting Table !"]
+	quest.620072118A9EA0E5.quest_desc: ["The Minecraft bed , a great classic."]
+	quest.620072118A9EA0E5.title: "Read!"
+	quest.62C3DD5C170B9991.quest_desc: ["Place the Fluid Extractor in front of a Log to extract the Latex."]
+	quest.62C3DD5C170B9991.quest_subtitle: "TIP: Try acacia!"
+	quest.646D259A74A59660.quest_desc: [
+		"Large quantities of materials are needed bla bla"
+		"Below you will find some examples, which you can combine or modify based on what you have learned."
+	]
+	quest.64C4A69B7AB2378C.quest_desc: ["Point to the selected structure"]
+	quest.66847BC40D0AA886.quest_desc: ["If you want your farms to continue to run when you are away, you need to place a Chunk Loader to keep the area loaded. Better ChunkLoaders allow you to load larger areas."]
+	quest.672085BE4855F0FC.quest_desc: [
+		"The 5 cables of the Mekanism are divided into"
+		""
+		"Universal - Energy"
+		"Logistics - Objects"
+		"Mechanical - Liquids"
+		"Pressurized - Gas"
+		"Thermodynamic - Heat"
+		""
+		"Use the Configurator to change the cable status"
+	]
+	quest.6721C769308820BD.quest_desc: ["Dense cables support up to 32 channels, but you can't attach peripherals to them"]
+	quest.684B224447B64520.quest_desc: [
+		"Get a crafting table and fly into the world of modded !"
+		"Below you will find some useful tools, on the right you fly towards interesting gadgets and above you will find the way to start the various mods!"
+	]
+	quest.684B224447B64520.quest_subtitle: "We're almost there!"
+	quest.684B224447B64520.title: "Crafting Table"
+	quest.6886B94EC94A32A6.quest_desc: ["It allows you to convert kinetic energy into electrical energy!"]
+	quest.6A3E86E748063BD3.quest_desc: ["As before, a 3x3x3 structure, but with a hopper on top!"]
+	quest.6CE00D9DF699753D.quest_desc: [
+		"I'm creating this modpack to introduce the technical mod to the Italian public. I'll create the quests as my letsplay on Youtube goes on . Many things will be changed along the way, especially wait to play it if you're a complete novice because the rewards and approaches that will come later are definitely missing ."
+		""
+		"also open quests by pressing CAPSLOCK"
+		""
+		"For any doubts enter the discord server https://discord.gg/marcuskron"
+	]
+	quest.6CE00D9DF699753D.quest_subtitle: "MODPACK IS NOT FINISHED"
+	quest.6EBFB754D8B6AC57.quest_desc: [
+		"A very useful BackPack ! You can increase the slots by improving it with iron, gold, diamond and netherite !"
+		"You can place it in the curio instead of the chest"
+		"You can open the backpack by pressing B"
+		"{image:techacademy:textures/quests/backpack.png width:160 height:100 align:center}"
+	]
+	quest.6FAE4CF10F8D7B84.quest_desc: ["Trader is harassing you? Turn him off, he won't find his way to your bedroom anymore"]
+	quest.6FAE4CF10F8D7B84.title: "Annoying Traders?"
+	quest.718C54A843D76478.quest_desc: ["Craft the compass and go in search of a meteorite!"]
+	quest.71AE09BBC3246B9D.quest_desc: [
+		"modded Minecraft , energy follows various systems, but the most common is the & cRedstone Flux (RF)&r. Forge Energy (FE) is the standard introduced by Minecraft Forge and is equivalent to 1 RF = 1 FE. Other systems, such as Mekanism 's Joule (J) or IC2's Energy Unit (EU), may have different conversions."
+		""
+		"RF/t (RF per tick) indicates the rate at which energy is generated, transported, or consumed. Since Minecraft runs at 20 ticks per second, a machine that consumes 40 RF/t will use 800 RF per second. If the generator provides less RF/t than required, the machine will slow down or stop."
+		""
+		"Energy is generated by generators or reactors, transported by cables and stored in batteries or capacitors. Machines consume RF/t to operate, and if the energy is insufficient they slow down or stop. For an efficient system, it is important to balance generation and consumption. ⚡"
+	]
+	quest.71AE09BBC3246B9D.title: "INTRODUCTION TO ENERGY"
+	quest.720769427EB6CB28.title: "Food for the Heart"
+	quest.72D2ABC4C94C3BE9.quest_desc: ["Wool is essential for many mods, get some to start with, below are some more ways to get it."]
+	quest.72D2ABC4C94C3BE9.title: "Wool"
+	quest.740F8E1306C59A5B.quest_desc: [
+		"This ladder will extend downwards to its limit and as long as it does not encounter any blocks."
+		"Its inverted version does exactly the opposite so placing it extends upwards."
+	]
+	quest.758640628AFCFC68.quest_desc: ["Cables that carry fluids!"]
+	quest.75DA989D2EFC8A51.quest_desc: [
+		"The world is different from vanilla !"
+		"OVERWORLD: A vast and diverse world filled with new biomes! You'll find larger villages, loot- filled dungeons , and dense veins of minerals"
+		"NETHER: rich in structures, Fortresses become REAL Fortresses and there are minerals in the Nether too !"
+		""
+	]
+	quest.75DA989D2EFC8A51.quest_subtitle: "A whole new world!"
+	quest.75DA989D2EFC8A51.title: "World Generation"
+	quest.770BC6D95E31F6F7.quest_desc: [
+		"Applied Energistics 2"
+		"Mod introducing a digital system to store, manage and automate resources with ME Storage and energy channels."
+		""
+		"Play this mod if:"
+		""
+		"ultra-organized digital archive ?"
+		"You need advanced automation for crafting and logistics."
+		"You like precise management of energy and connections."
+		"Focus:"
+		"✅ Digital Storage"
+		"✅ Crafting Automation"
+		"✅ Advanced logistics"
+		"✅ Energy channels"
+		""
+		"Difficulty: 4/5 – Requires complex planning and management."
+	]
+	quest.770BC6D95E31F6F7.quest_subtitle: "Craft a charger!"
+	quest.770BC6D95E31F6F7.title: "Applied Energistics 2"
+	quest.7718B07C40E03C95.quest_desc: ["Alternative method for farming string and very important element of Immersive Engineering, plant as much Hemp as you can, you will need it!"]
+	quest.77FC9422E36B5423.quest_desc: ["Automatically breaks blocks"]
+	quest.7862B3BE3DEAD17B.quest_desc: [
+		"& c&lZ&r&r - Zoom"
+		""
+		"& c&lC & r&r - You lie down"
+		""
+		"&c&lF7&r&r - Monster Spawn Overlay"
+		""
+		"& c&lMiddle Mouse &r &r- Sorts items in inventories"
+		""
+		"& c&lShift + right mouse & r&r& o ( empty hands)&r - Takes animals, inventories and mobspawners"
+		""
+		"& c&lY&r&r (while cursor is on object) - Highlights chests with object selected"
+		""
+		"& c&lDouble click&r&r (in Jei , typing a word) - Highlights all objects with the name that contain that word"
+	]
+	quest.7862B3BE3DEAD17B.quest_subtitle: "You can find the others written in the relevant quests !"
+	quest.7862B3BE3DEAD17B.title: "Useful Keys"
+	quest.78F4E798439D8F25.quest_desc: [
+		"At the top right you have your minimap !"
+		"Press V to add a waypoint , press J to see the entire explored map and manage all Waypoints"
+	]
+	quest.78F4E798439D8F25.quest_subtitle: "You always know where you're going!"
+	quest.7A8569C741A8FBF5.title: "Energy Management"
+	quest.7A8E9E7BF4A409D7.quest_desc: [
+		"neumaticCraft : Repressurized"
+		"Air pressure-based technology mod, with pneumatic machines, automated drones and advanced logic systems."
+		""
+		"Play this mod if:"
+		""
+		"You are interested in pressure-based machines and pipes."
+		"Want advanced automation with programmable drones."
+		"You like an alternative engineering approach."
+		"Focus:"
+		"✅ Pressure and gas"
+		"✅ Automation with drones"
+		"✅ Advanced Logic and Circuits"
+		"✅ Alternative Energy"
+		""
+		"Difficulty: 4/5 – Requires careful pressure management and drone programming."
+	]
+	quest.7A8E9E7BF4A409D7.quest_subtitle: "Make the iron explode!"
+	quest.7A8E9E7BF4A409D7.title: "Pneumatic raft"
+	quest.7AB83A6412BB0EFF.quest_desc: ["Wind Energy! Free! Sustainable! Eco-friendly!"]
+	quest.7B30435B2993D639.quest_desc: ["Find a meteorite! Dig up the skystone (keep it) and find the Certus Quartz Budding ... BUT DON'T BREAK THE FLAWLESS (you can get them with the Mekanism cardboxes ). Get the other buddings and break the mystery box!"]
+	quest.7B30435B2993D639.title: "Inside the meteorite"
+	quest.7B39316B62529E59.quest_desc: [
+		"You can disable or enable the shader by pressing K"
+		"You can select other shaders (they introduce shadows and reflections in mc) by pressing: ESC, OPTIONS, VIDEO SETTING, IRIS"
+		"Even without Shader there is DynamicsLight so holding an object that emits light will illuminate the scene!"
+	]
+	quest.7C5C40E5751272C5.quest_desc: ["Mekanism Steel !"]
+	quest.7C5C40E5751272C5.quest_subtitle: "TIP: This is not the only way to create Steel"
+	quest.7DD157FC2E23127E.quest_desc: [
+		"Build a 3x3x3 structure and smash it with the Immersive hammer !"
+		""
+		"{image:techacademy:textures/quests/coke_ie.png width:100 height:100 align:center}"
+		""
+		"Insert coal or coal block to produce Coal Coke and Creosote Oil!"
+	]
+	quest.7E0734D239A3F437.quest_desc: ["Head to the selected biome"]
+	quest.7E2E259B5323CECC.quest_desc: ["To transfer the current use a LV Connector on the manufacturer and where you want it to go by connecting both with a LV Wire . If the cable does not reach us use the LV Relay as a bridge. Use the pylons (Post) to manage your electrical cable system!"]
+	quest.7E2E259B5323CECC.quest_subtitle: "There are better cables, but these are super nice"
+	quest.7E73F5CAAA767749.quest_desc: [
+		"Holding down \\ while using a tool can dig up more blocks!"
+		"Keep in mind that hunger is consumed based on how many blocks you dig."
+		"You can change the shape of the \"scavata\"with the mouse wheel while holding down Shift+\\"
+	]
+	quest.7E73F5CAAA767749.title: "You can dig multiple blocks at once!"
+	quest.7F6919A38259BECE.quest_desc: ["In many packs most of the modded seeds are obtainable by breaking the grass , in this modpack you will need a lot of Hemp Seed"]
+	quest.7F6919A38259BECE.title: "Break the grass !"
+	reward.127F4BAFF2DC536E.title: "Phantoms Disabled"
+	reward.1D0BE7CEFCA7227E.title: "Deactivated Channels"
+	reward.43A007B9E4DEB6E4.title: "Deactivate Trader"
+	reward.5BF64BE115D703CE.title: "Activated Channels"
+	reward.79391883714C90C4.title: "Activate Trader"
+	reward.7D674DFB975DE045.title: "Active Phantoms"
+	reward_table.1161C0ABCD88C7C3.title: "Channel"
+	reward_table.2E6EABAE17A9D842.title: "Trader"
+	reward_table.317D45D3C953414E.title: "Phantom"
+	task.00997334514B9B73.title: "Any # constructionstick:construction _sticks"
+	task.05CD4540EED61253.title: "Any # minecraft:hoes"
+	task.081C63EC28B85A2D.title: "FTBUltimine"
+	task.0C13C5564EA921EA.title: "Click here if you read!"
+	task.1919E95E131A22BF.title: "Any # c:tools /knife"
+	task.206071D367D4AF6B.title: "Any # minecraft:logs"
+	task.2933D95CADBB7027.title: "JourneyMap"
+	task.29A2F2B5AA0AB057.title: "Any # minecraft:beds"
+	task.3007BF141E9AA55A.title: "hat"
+	task.34EA039F7E38C90F.title: "Automatic Food"
+	task.382EE9D3348FCCB4.title: "Any # c:bucket /refined_canola_oil"
+	task.38B7C89F231EAF05.title: "Any # sophisticatedstorage:base _tier_wooden_storage"
+	task.41CF49286DC8E73C.title: "Any # c:raw _materials/osmium"
+	task.4285646017DDC82B.title: "Any # c:player _workstations/crafting_tables"
+	task.430B442D80A570BD.title: "FTBULTIMINE"
+	task.447648435A3A94BD.title: "Let's start the mod"
+	task.448E50457CD32AE7.title: "Expert Chef"
+	task.46977B7FF3EBE014.title: "Let's get started?"
+	task.47621D88D4522158.title: "Any #sophisticatedstorage:base_tier_wooden_storage"
+	task.52EF39014DB3A6DC.title: "Shaders"
+	task.5E4580C8325B18FD.title: "Any #c:wools"
+	task.5F452F088DDC1F46.title: "EXCAVATION"
+	task.66E273FD0D2EB565.title: "Go to the bedrock and set it on fire !"
+	task.6E1928EB3271CA5C.title: "Any # minecraft:logs"
+	task.6F66FF677464938C.title: "READ ME"
+}
