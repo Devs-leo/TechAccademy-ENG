@@ -1,0 +1,25 @@
+{
+	id: "2E6EABAE17A9D842"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{
+			command: "/gamerule doTraderSpawning false"
+			elevate_perms: true
+			icon: {
+				id: "mini_mob_trophy:beta_wandering_trader_trophy"
+			}
+			id: "43A007B9E4DEB6E4"
+			type: "command"
+		}
+		{
+			command: "/gamerule doTraderSpawning true"
+			elevate_perms: true
+			icon: {
+				id: "mini_mob_trophy:wandering_trader_trophy"
+			}
+			id: "79391883714C90C4"
+			type: "command"
+		}
+	]
+}

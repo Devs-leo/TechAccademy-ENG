@@ -1,0 +1,65 @@
+{
+	autofocus_id: "5C854E0EF8837E98"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "create"
+	group: "6021C862F01F642A"
+	id: "40EC0EFCAF17763D"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["3B3049F6C9591CC0"]
+			id: "5C854E0EF8837E98"
+			shape: "square"
+			size: 1.5d
+			tasks: [{
+				id: "5160E56FB101A9A2"
+				item: { count: 1, id: "create:hand_crank" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			id: "7FB26F666B8DA3C8"
+			tasks: [{
+				id: "13616DD33DEFCCC4"
+				item: { count: 1, id: "create:water_wheel" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -4.5d
+		}
+		{
+			id: "485C87A2D7D32908"
+			tasks: [{
+				id: "4CE96F46D64BF1CD"
+				item: { count: 1, id: "create:large_water_wheel" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -4.0d
+		}
+		{
+			id: "1B4878C308F37DD7"
+			tasks: [{
+				id: "6980380309D743B1"
+				item: { count: 1, id: "create:windmill_bearing" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: -3.0d
+		}
+		{
+			id: "1D2004AAF9DF02D5"
+			tasks: [{
+				id: "3675D9814A84D40C"
+				item: { count: 1, id: "create:steam_engine" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: -2.0d
+		}
+	]
+}
